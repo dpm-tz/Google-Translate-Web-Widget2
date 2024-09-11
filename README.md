@@ -1,15 +1,15 @@
-To use the <b>Google Translate Web Widget</b> for free, you can embed the widget on your website to enable automatic translation of your entire site into various languages. 
-<strong>1. Generate the Google Translate Widget Code</strong>
-Google provides a simple code snippet that you can embed into your HTML file to enable the translation widget.
+To use the <b>Google Translate Web Widget</b> for free, you can embed the widget on your website to enable automatic translation of your entire site into various languages. <br>
+<strong>1. Generate the Google Translate Widget Code</strong><br>
+Google provides a simple code snippet that you can embed into your HTML file to enable the translation widget.<br>
 
-Follow these steps:
+Follow these steps:<br>
 
-Visit the Google Translate Website Widget page.
-Sign in with your Google account (if you're not already signed in).
-Once logged in, you’ll be prompted to add a website.
-Enter your website URL.
-Choose the original language of your site (e.g., English).
-Select the languages you want to offer for translation.
+Visit the Google Translate Website Widget page.<br>
+Sign in with your Google account (if you're not already signed in).<br>
+Once logged in, you’ll be prompted to add a website.<br>
+Enter your website URL.<br>
+Choose the original language of your site (e.g., English).<br>
+Select the languages you want to offer for translation.<br>
 Google will then generate a code snippet for you to place in your website's HTML.
 
 2. Embed the Widget in Your HTML
