@@ -18,7 +18,7 @@ Once you have the code snippet, embed it into your website. Typically, you'll wa
 
 HTML Example with Google Translate Widget:
 
-html
+```html
 Copy code
 <!DOCTYPE html>
 <html lang="en">
@@ -51,7 +51,7 @@ Copy code
 
 </body>
 </html>
-
+```
 
 If you're working on a project without a domain (like developing locally or using a local server), you can still test and implement translation features. For learning purposes, you can either use a local server (e.g., `localhost`) or a development platform (like GitHub Pages or Netlify) to host your website temporarily without needing a domain.
 
