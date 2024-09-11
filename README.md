@@ -1,16 +1,15 @@
 To use the <b>Google Translate Web Widget</b> for free, you can embed the widget on your website to enable automatic translation of your entire site into various languages. <br>
-<strong>1. Generate the Google Translate Widget Code</strong><br>
-Google provides a simple code snippet that you can embed into your HTML file to enable the translation widget.<br>
+The link you for Google Translate's website widget is publicly available and doesn't require special access. It's used to embed the Google Translate widget directly into your website. The correct script tag you can use is:
 
-Follow these steps:<br>
+```html
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+```
 
-Visit the Google Translate Website Widget page.<br>
-Sign in with your Google account (if you're not already signed in).<br>
-Once logged in, you’ll be prompted to add a website.<br>
-Enter your website URL.<br>
-Choose the original language of your site (e.g., English).<br>
-Select the languages you want to offer for translation.<br>
-Google will then generate a code snippet for you to place in your website's HTML.
+### Here's how it works:
+- The URL `//translate.google.com/translate_a/element.js` is a script provided by Google to enable the translation widget on your page.
+- The `cb=googleTranslateElementInit` part is a callback function that initializes the Google Translate element when the script loads.
+
+This code will load the Google Translate widget on your website without any additional setup. Just ensure that the `googleTranslateElementInit` function (which is the callback) is properly defined in your code, as shown in your previous examples.
 
 2. Embed the Widget in Your HTML
 Once you have the code snippet, embed it into your website. Typically, you'll want to place it in the <body> section of your HTML, ideally somewhere near the top of your page.
